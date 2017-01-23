@@ -1,0 +1,2 @@
+c:\users\programming\documents\visual studio 2013\Projects\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorldContent\obj\x86\Debug\HighNoonOverWorldContent.contentprojResolveAssemblyReference.cache
+E:\High Noon\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorldContent\obj\x86\Debug\HighNoonOverWorldContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+c:\users\programming\documents\visual studio 2013\Projects\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\bin\x86\Debug\HighNoonOverWorld.exe
+c:\users\programming\documents\visual studio 2013\Projects\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\bin\x86\Debug\HighNoonOverWorld.pdb
+c:\users\programming\documents\visual studio 2013\Projects\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\obj\x86\Debug\HighNoonOverWorld.csprojResolveAssemblyReference.cache
+c:\users\programming\documents\visual studio 2013\Projects\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\programming\documents\visual studio 2013\Projects\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\obj\x86\Debug\HighNoonOverWorld.exe
+c:\users\programming\documents\visual studio 2013\Projects\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\obj\x86\Debug\HighNoonOverWorld.pdb
+c:\users\programming\documents\visual studio 2013\Projects\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\bin\x86\Debug\Content\placeholdersprite.xnb
+E:\High Noon\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\obj\x86\Debug\HighNoonOverWorld.csprojResolveAssemblyReference.cache
+E:\High Noon\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\High Noon\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\obj\x86\Debug\HighNoonOverWorld.exe
+E:\High Noon\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\obj\x86\Debug\HighNoonOverWorld.pdb
+E:\High Noon\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\bin\x86\Debug\Content\placeholdersprite.xnb
+E:\High Noon\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\bin\x86\Debug\Content\background.xnb
+E:\High Noon\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\bin\x86\Debug\HighNoonOverWorld.exe
+E:\High Noon\HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld\bin\x86\Debug\HighNoonOverWorld.pdb

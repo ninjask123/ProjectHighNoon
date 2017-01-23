@@ -1,0 +1,2 @@
+Content\placeholdersprite.xnb
+Content\background.xnb

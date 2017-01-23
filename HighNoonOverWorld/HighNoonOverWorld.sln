@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighNoonOverWorld", "HighNoonOverWorld\HighNoonOverWorld\HighNoonOverWorld.csproj", "{237CD506-52B8-4C32-BAA0-C26392F5D38C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "HighNoonOverWorldContent", "HighNoonOverWorld\HighNoonOverWorldContent\HighNoonOverWorldContent.contentproj", "{E7511B7C-6A69-4735-A53B-EA7AEB55D54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237CD506-52B8-4C32-BAA0-C26392F5D38C}.Debug|x86.ActiveCfg = Debug|x86
+		{237CD506-52B8-4C32-BAA0-C26392F5D38C}.Debug|x86.Build.0 = Debug|x86
+		{237CD506-52B8-4C32-BAA0-C26392F5D38C}.Release|x86.ActiveCfg = Release|x86
+		{237CD506-52B8-4C32-BAA0-C26392F5D38C}.Release|x86.Build.0 = Release|x86
+		{E7511B7C-6A69-4735-A53B-EA7AEB55D54A}.Debug|x86.ActiveCfg = Debug|x86
+		{E7511B7C-6A69-4735-A53B-EA7AEB55D54A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
